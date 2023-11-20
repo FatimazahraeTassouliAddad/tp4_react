@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FatimazahraeTassouliAddad.github.io/Tp4_react.git/static/css/main.18a37499.css",
-    "main.js": "/FatimazahraeTassouliAddad.github.io/Tp4_react.git/static/js/main.f5c5d9aa.js",
-    "index.html": "/FatimazahraeTassouliAddad.github.io/Tp4_react.git/index.html",
-    "main.18a37499.css.map": "/FatimazahraeTassouliAddad.github.io/Tp4_react.git/static/css/main.18a37499.css.map",
-    "main.f5c5d9aa.js.map": "/FatimazahraeTassouliAddad.github.io/Tp4_react.git/static/js/main.f5c5d9aa.js.map"
+    "main.css": "/tppg_react/static/css/main.18a37499.css",
+    "main.js": "/tppg_react/static/js/main.f5c5d9aa.js",
+    "index.html": "/tppg_react/index.html",
+    "main.18a37499.css.map": "/tppg_react/static/css/main.18a37499.css.map",
+    "main.f5c5d9aa.js.map": "/tppg_react/static/js/main.f5c5d9aa.js.map"
   },
   "entrypoints": [
     "static/css/main.18a37499.css",
