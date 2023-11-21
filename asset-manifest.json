@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tppg_react/static/css/main.18a37499.css",
-    "main.js": "/tppg_react/static/js/main.f5c5d9aa.js",
-    "index.html": "/tppg_react/index.html",
-    "main.18a37499.css.map": "/tppg_react/static/css/main.18a37499.css.map",
-    "main.f5c5d9aa.js.map": "/tppg_react/static/js/main.f5c5d9aa.js.map"
+    "main.css": "/tp4_react/static/css/main.18a37499.css",
+    "main.js": "/tp4_react/static/js/main.f5c5d9aa.js",
+    "index.html": "/tp4_react/index.html",
+    "main.18a37499.css.map": "/tp4_react/static/css/main.18a37499.css.map",
+    "main.f5c5d9aa.js.map": "/tp4_react/static/js/main.f5c5d9aa.js.map"
   },
   "entrypoints": [
     "static/css/main.18a37499.css",
